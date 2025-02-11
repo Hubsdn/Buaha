@@ -1,12 +1,4 @@
-# KALEIDO BOT AUTO MINNING 
-
-## JOIN : [https://kaleidofinance.xyz](https://kaleidofinance.xyz/testnet?ref=GDS6QPO8)
-
-# TUTORIAL RUNNING BOT :
-
-BY VIDEO : [CLICK HERE TO VIEW](https://youtu.be/Fwa3WNGTrw0)
-
-BY TEXT :
+TUMTOR YA TUMTOR
 
 Copy this code :
 ```
@@ -34,6 +26,4 @@ Done ? Run bot now :
 python3 bot.py
 ```
 
-# dont forget to join :
-- [TELEGRAM](https://t.me/SHAREITHUB_COM)
-- [YOUTUBE](https://www.youtube.com/channel/UCUvH2S-T6T_hc7DjxhVd28A)
+
